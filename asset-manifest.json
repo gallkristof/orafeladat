@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/orafeladat/static/css/main.073c9b0a.css",
+    "main.js": "/orafeladat/static/js/main.226af520.js",
+    "static/js/787.0c20efd5.chunk.js": "/orafeladat/static/js/787.0c20efd5.chunk.js",
+    "static/media/logo.svg": "/orafeladat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/orafeladat/index.html",
+    "main.073c9b0a.css.map": "/orafeladat/static/css/main.073c9b0a.css.map",
+    "main.226af520.js.map": "/orafeladat/static/js/main.226af520.js.map",
+    "787.0c20efd5.chunk.js.map": "/orafeladat/static/js/787.0c20efd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.226af520.js"
+  ]
+}
